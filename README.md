@@ -25,7 +25,7 @@ d=math.sqrt((x2-x1)**2+(y2-y1)**2)
 print("{:.2f}".format(d))
 ```
 ### OUTPUT:
-![image](https://github.com/VerginJenifer/DISTANCE-BETWEEN-TWO-POINTS/assets/136251012/925adfa7-6f6e-4516-b315-d8fc8718b036)
+![image](https://github.com/VerginJenifer/DISTANCE-BETWEEN-TWO-POINTS/assets/136251012/2cbc473c-ca66-4aea-8027-aa2ac915d4d6)
 
 
 ### RESULT:
